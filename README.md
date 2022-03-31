@@ -8,7 +8,7 @@ I'm keen onto learning state of the art web development techniques from all sort
 
 ### Projects highlights
 
-:wrench: [Corrective](corrective-b0169c.netlify.app/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
+:wrench: [Corrective](https://corrective-b0169c.netlify.app/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
 :bank: [Geckspense](https://geckspence.netlify.app/) - A full-stack finance managing app developed in a team of 5 people.<br/>
 :doughnut: [Cake store](https://v24-toucans-team-01.netlify.app/) - Fully functional cake internet store built using Vanilla JS.
 
