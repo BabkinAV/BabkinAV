@@ -1,4 +1,4 @@
-### Hi there, I'm Anrey 👋
+### Hi there, I'm Andrey 👋
 
 I'm a frontend web-developer from Moscow, Russia.
 
