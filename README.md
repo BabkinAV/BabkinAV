@@ -6,9 +6,9 @@ After several years of working as an engineer in heavy machine and elevator indu
 I'm keen onto learning state of the art web development techniques from all sorts of media: from coursera and udemy to youtube, tech twitter and google:sunglasses:. 
 
 ## Projects highlights
-:wrench: [Corrective](https://corrective-b0169c.netlify.app/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
-:bank: [Geckspense](https://geckspence.netlify.app/) - A full-stack finance managing app developed in a team of 5 people.<br/>
-:doughnut: [Cake store](https://v24-toucans-team-01.netlify.app/) - Fully functional cake internet store built using Vanilla JS.
+:wrench: [Corrective](https://github.com/BabkinAV/Corrective/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
+:bank: [Geckspense](https://github.com/chingu-voyages/v37-geckos-team-07) - A full-stack finance managing app developed in a team of 5 people.<br/>
+:doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.
 
 ## My Hobbies
 :orange_book: Books reader <br/>
@@ -18,7 +18,7 @@ I'm keen onto learning state of the art web development techniques from all sort
 ## Connect with me :thought_balloon:
 - [Portfolio](http://andreybabkin.com/) <br/>
 - [Linkedin](https://www.linkedin.com/in/andrey-babkin-b0761682/) <br/>
-- [Twitter](https://www.facebook.com/Raybeck84) <br/>
+- [Twitter](https://twitter.com/BabkinAndrey56) <br/>
 
 ## Tech Stack  🛠 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
