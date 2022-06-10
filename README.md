@@ -22,6 +22,7 @@ I'm keen onto learning state of the art web development techniques from all sort
 
 ## Tech Stack  🛠 &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?logo=typescript&logoColor=3178C6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
