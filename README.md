@@ -6,9 +6,13 @@ After several years of working as an engineer in heavy machine and elevator indu
 I'm keen onto learning state of the art web development techniques from all sorts of media: from coursera and udemy to youtube, tech twitter and google:sunglasses:. 
 
 ## Projects highlights
-:wrench: [Corrective](https://github.com/BabkinAV/Corrective/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
+:toolbox: [Corrective](https://github.com/BabkinAV/Corrective/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
 :bank: [Geckspense](https://github.com/chingu-voyages/v37-geckos-team-07) - A full-stack finance managing app developed in a team of 5 people.<br/>
 :doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.
+
+## Currently working on
+
+:hammer_and_wrench: [Readest](https://github.com/BabkinAV/readest) - A reading diary app created with Typescript and React
 
 ## My Hobbies
 :orange_book: Books reader <br/>
