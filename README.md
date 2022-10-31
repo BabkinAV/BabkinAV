@@ -1,5 +1,5 @@
 ## Hi there, I'm Andrey 👋
-I'm a frontend web-developer from Moscow, Russia.
+I'm a frontend web-developer from Moscow, Russia
 
 After several years of working as an engineer in heavy machine and elevator industries I decided to turn into frontend web development to help build a better world!
 
@@ -8,11 +8,10 @@ I'm keen onto learning state of the art web development techniques from all sort
 ## Projects highlights
 :toolbox: [Corrective](https://github.com/BabkinAV/Corrective/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
 :bank: [Geckspense](https://github.com/chingu-voyages/v37-geckos-team-07) - A full-stack finance managing app developed in a team of 5 people.<br/>
-:doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.
+:doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.<br/>
+:writing_hand: [ContactMe](https://github.com/BabkinAV/contactme) - A full-stack contact manager app.<br/>
+:books: [Readest](https://github.com/BabkinAV/readest) - A reading tracker app created with Typescript and React utilizing Open Library database API.<br/>
 
-## Currently working on
-
-:hammer_and_wrench: [Readest](https://github.com/BabkinAV/readest) - A reading diary app created with Typescript and React
 
 ## My Hobbies
 :orange_book: Books reader <br/>
