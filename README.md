@@ -1,7 +1,8 @@
 ## Hi there, I'm Andrey 👋
-I'm a frontend web-developer from Moscow, Russia
 
-After several years of working as an engineer in heavy machine and elevator industries I decided to turn into frontend web development to help build a better world!
+Welcome to my github profile!
+
+After several years of working as an engineer in heavy machine and elevator industries I decided to turn into frontend web development to help build a better world:smiley:
 
 I'm keen onto learning state of the art web development techniques from all sorts of media: from coursera and udemy to youtube, tech twitter and google:sunglasses:. 
 
