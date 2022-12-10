@@ -2,7 +2,7 @@
 
 Welcome to my github profile!
 
-After several years of working as an engineer in heavy machine and elevator industries I decided to turn into frontend web development to help build a better world:smiley:
+After several years of working as an engineer in heavy machine and elevator industries I decided to turn into frontend web development to help build a better world:earth_asia:
 
 I'm keen onto learning state of the art web development techniques from all sorts of media: from coursera and udemy to youtube, tech twitter and google:sunglasses:. 
 
