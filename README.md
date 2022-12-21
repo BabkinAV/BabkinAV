@@ -43,4 +43,4 @@ I'm keen onto learning state of the art web development techniques from all sort
  ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=babkinav&langs_count=5&theme=tokyonight)
  
  
- ![Codewars](https://github.r2v.ch/codewars?user=raybeck84&theme=dark)
+ ![Codewars](https://github.r2v.ch/codewars?user=babkinav&theme=dark)
