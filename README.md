@@ -7,7 +7,7 @@ After several years of working as an engineer in heavy machine and elevator indu
 I'm keen onto learning state of the art web development techniques from all sorts of media: from coursera and udemy to youtube, tech twitter and google:sunglasses:. 
 
 ## Projects highlights
-:toolbox: [Corrective](https://github.com/BabkinAV/Corrective/) - A React App allowing companies to inform the end-users on the possible upgrades for their products.<br/>
+:toolbox: [Corrective](https://github.com/BabkinAV/Corrective/) -React MERN App allowing companies to inform the end-users on the possible upgrades for their products.Features authorization flow<br/>
 :bank: [Geckspense](https://github.com/chingu-voyages/v37-geckos-team-07) - A full-stack finance managing app developed in a team of 5 people.<br/>
 :doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.<br/>
 :writing_hand: [ContactMe](https://github.com/BabkinAV/contactme) - A full-stack contact manager app.<br/>
@@ -40,3 +40,8 @@ I'm keen onto learning state of the art web development techniques from all sort
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=babkinav&show_icons=true&count_private=true&theme=merko)
+![Andrey's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babkinav&count_private=true&theme=tokyonight)
+
+
