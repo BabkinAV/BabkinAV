@@ -12,6 +12,8 @@ I'm keen onto learning state of the art web development techniques from all sort
 :doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.<br/>
 :writing_hand: [ContactMe](https://github.com/BabkinAV/contactme) - A full-stack contact manager app.<br/>
 :books: [Readest](https://github.com/BabkinAV/readest) - A reading tracker app created with Typescript and React utilizing Open Library database API.<br/>
+:bank: [Trade Terminal](https://github.com/BabkinAV/terminal-fe) - Real time trade terminal app based on websockets protocol
+
 
 ## Currently working on
 :newspaper_roll: [Build Media](https://github.com/BabkinAV/build-media) - NextJS-based blog styled with Tailwind and utilizing Wordpress REST API as headless CMS
@@ -42,6 +44,6 @@ I'm keen onto learning state of the art web development techniques from all sort
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<!-- ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=babkinav&show_icons=true&count_private=true&theme=merko)
+![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=babkinav&show_icons=true&count_private=true&theme=merko)
 ![Andrey's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babkinav&count_private=true&theme=tokyonight)
- -->
+
