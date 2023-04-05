@@ -12,7 +12,7 @@ I'm keen onto learning state of the art web development techniques from all sort
 :doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.<br/>
 :writing_hand: [ContactMe](https://github.com/BabkinAV/contactme) - A full-stack contact manager app.<br/>
 :books: [Readest](https://github.com/BabkinAV/readest) - A reading tracker app created with Typescript and React utilizing Open Library database API.<br/>
-:chart_with_upwards_trend: [Trade Terminal](https://github.com/BabkinAV/terminal-fe) - Real time trade terminal app based on websockets protocol
+:chart_with_upwards_trend: [Trade Terminal](https://github.com/BabkinAV/terminal-fe) - Real time trade terminal app based on websockets protocol<br/>
 :newspaper_roll: [Build Media](https://github.com/BabkinAV/build-media) - NextJS-based blog styled with Tailwind and utilizing Wordpress REST API as headless CMS
 
 
