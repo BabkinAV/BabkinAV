@@ -13,10 +13,8 @@ I'm keen onto learning state of the art web development techniques from all sort
 :writing_hand: [ContactMe](https://github.com/BabkinAV/contactme) - A full-stack contact manager app.<br/>
 :books: [Readest](https://github.com/BabkinAV/readest) - A reading tracker app created with Typescript and React utilizing Open Library database API.<br/>
 :chart_with_upwards_trend: [Trade Terminal](https://github.com/BabkinAV/terminal-fe) - Real time trade terminal app based on websockets protocol
-
-
-## Currently working on
 :newspaper_roll: [Build Media](https://github.com/BabkinAV/build-media) - NextJS-based blog styled with Tailwind and utilizing Wordpress REST API as headless CMS
+
 
 
 ## My Hobbies
