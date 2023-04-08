@@ -41,7 +41,8 @@ I'm keen onto learning state of the art web development techniques from all sort
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![Codewars](https://www.codewars.com/users/babkinav/badges/large)
+![Codewars](https://www.codewars.com/users/babkinav/badges/large)&nbsp;
+
 ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=babkinav&show_icons=true&count_private=true&theme=merko)
 ![Andrey's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babkinav&count_private=true&theme=tokyonight)
 
