@@ -15,7 +15,7 @@ I'm keen onto learning state of the art web development techniques from all sort
 :chart_with_upwards_trend: [Trade Terminal](https://github.com/BabkinAV/terminal-fe) - Real time trade terminal app based on websockets protocol<br/>
 :newspaper_roll: [Build Media](https://github.com/BabkinAV/build-media) - NextJS-based blog styled with Tailwind and utilizing Wordpress REST API as headless CMS
 
-## Currently building :construction_worker:
+## Currently building :construction:
  :dollar: [twplace](https://github.com/BabkinAV/twplace) - E-commerce website created with NextJS and Styled Components
 
 
