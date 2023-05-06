@@ -6,7 +6,7 @@ After several years of working as an engineer in heavy machine and elevator indu
 
 I'm keen onto learning state of the art web development techniques from all sorts of media: from coursera and udemy to youtube, tech twitter and google:sunglasses:. 
 
-## Projects highlights
+## Projects highlights :sparkles:
 :toolbox: [Corrective](https://github.com/BabkinAV/Corrective/) -React MERN App allowing companies to inform the end-users on the possible upgrades for their products.Features authorization flow<br/>
 :bank: [Geckspense](https://github.com/chingu-voyages/v37-geckos-team-07) - A full-stack finance managing app developed in a team of 5 people.<br/>
 :doughnut: [Cake store](https://github.com/chingu-voyages/v24-toucans-team-01) - Fully functional cake internet store built using Vanilla JS.<br/>
@@ -15,12 +15,12 @@ I'm keen onto learning state of the art web development techniques from all sort
 :chart_with_upwards_trend: [Trade Terminal](https://github.com/BabkinAV/terminal-fe) - Real time trade terminal app based on websockets protocol<br/>
 :newspaper_roll: [Build Media](https://github.com/BabkinAV/build-media) - NextJS-based blog styled with Tailwind and utilizing Wordpress REST API as headless CMS
 
-## Currently building :hammer:
+## Currently building :construction_worker:
  :dollar: [twplace](https://github.com/BabkinAV/twplace) - E-commerce website created with NextJS and Styled Components
 
 
 
-## My Hobbies
+## My Hobbies :balloon:
 :orange_book: Books reader <br/>
 :tennis: Tennis player <br/>
 :coffee: Coffee addict 
